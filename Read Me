@@ -1,0 +1,33 @@
+# 🧮 Java Calculator
+
+A simple and responsive **Calculator App built with Java Swing**.  
+This project demonstrates the use of **Swing GUI components**, **event handling**, and **basic arithmetic operations** in Java.
+
+---
+
+## 🚀 Features
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧮 Clear / Reset function  
+- ⚡ Real-time display updates  
+- 🪟 User-friendly graphical interface built with Swing  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Java 8+**
+- **Swing** for GUI
+- **AWT** for layout management and events
+
+---
+
+## 📦 How to Run the Project
+
+1. **Clone or download** this repository:
+   ```bash
+   git clone https://github.com/rishabhrajsingh9639-design/java-calculator.git
+   cd java-calculator
